@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TRZ.lol</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      color: #222;
+    }
+    .logo {
+      font-size: 48px;
+      font-weight: bold;
+      margin-top: 60px;
+    }
+    .tagline {
+      font-size: 20px;
+      margin-top: 10px;
+      color: #555;
+    }
+    .links {
+      margin-top: 40px;
+      width: 90%;
+      max-width: 400px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    .btn {
+      padding: 15px;
+      border-radius: 10px;
+      border: none;
+      background: #000;
+      color: #fff;
+      font-size: 18px;
+      text-decoration: none;
+      display: block;
+    }
+    .footer {
+      margin-top: 60px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">TRZ</div>
+  <div class="tagline">Your official TikTok hub</div>  <div class="links">
+    <a href="#" class="btn">🎥 أحدث فيديوهات TikTok</a>
+    <a href="#" class="btn">📸 تابعني على Instagram</a>
+    <a href="#" class="btn">🔥 محتوى إضافي</a>
+    <a href="#" class="btn">💰 روابط الربح والتوصيات</a>
+    <a href="#" class="btn">📩 تواصل معي</a>
+  </div>  <div class="footer">© 2025 TRZ.lol</div>
+</body>
+</html>
